@@ -10,4 +10,6 @@ No money in T1–T4.
 | Shop | T1 | T2 | T3 | T4 |
 |------|----|----|----|----|
 | Charlotte Water Filtration | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
-| Culligan / Plumbing Techs / Oehler / Carolina Water | hold — no own-site inbox |
+| Bowen Water Co | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
+| Dilling | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
+| Culligan / Plumbing Techs / Oehler / Carolina Water / Charlotte Plumbing Masters / E.R. Services / Osborne | hold — no own-site inbox this run |
