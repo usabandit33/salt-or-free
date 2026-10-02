@@ -9,9 +9,11 @@ No money in T1–T4.
 ## Sequence
 | Shop | T1 | T2 | T3 | T4 |
 |------|----|----|----|----|
-| Charlotte Water Filtration | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
-| Bowen Water Co | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
-| Dilling | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
-| Frank Water Systems | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
-| Winn’s Plumbing | 2026-09-29 | ~10-02/03 | ~10-06/09 | ~10-12/13 |
+| Charlotte Water Filtration | 2026-09-29 | 2026-10-02 | ~10-06/09 | ~10-12/13 |
+| Bowen Water Co | 2026-09-29 | 2026-10-02 | ~10-06/09 | ~10-12/13 |
+| Dilling | 2026-09-29 | 2026-10-02 | ~10-06/09 | ~10-12/13 |
+| Frank Water Systems | 2026-09-29 | 2026-10-02 | ~10-06/09 | ~10-12/13 |
+| Winn’s Plumbing | 2026-09-29 | 2026-10-02 | ~10-06/09 | ~10-12/13 |
 | Culligan / Plumbing Techs / Oehler / Carolina Water / Charlotte Plumbing Masters / E.R. / Osborne | hold — no own-site inbox this run |
+
+T2 sent 2026-10-02 to the five inboxes marked T1 in contacts.md (factory rollup had counted only Charlotte; product log listed five).
